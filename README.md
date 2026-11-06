@@ -626,6 +626,7 @@ The current iteration of the list, such as you see it today, was launched with t
 
 ## Skills
 
+- **[pstack-telemetry](https://github.com/andrew4522-cr/pstack-telemetry)** - Self-healing Python runtime and agent skill suite implementing canonical `decisions.tsv` logging (`/show-me-your-work`), 3-lens post-run reflection (`/reflect`), and pre-send governance gates.
 - [Caveman](https://github.com/JuliusBrussee/caveman) by [Julius Brussee](https://github.com/JuliusBrussee) - A plugin that conserves message tokens by communicating in fragmented "caveman speak" - sort of a clever form of compression. Now accompanied by a whole caveman ecosystem including a memory system, caveman spec kit, and a caveman agent.  
 <img src="https://img.shields.io/github/created-at/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
